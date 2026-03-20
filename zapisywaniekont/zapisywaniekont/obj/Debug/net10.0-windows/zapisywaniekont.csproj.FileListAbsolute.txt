@@ -1,0 +1,6 @@
+C:\Users\jakub\source\repos\zapisywaniekont\zapisywaniekont\obj\Debug\net10.0-windows\zapisywaniekont.Form1.resources
+C:\Users\jakub\source\repos\zapisywaniekont\zapisywaniekont\obj\Debug\net10.0-windows\zapisywaniekont.csproj.GenerateResource.cache
+C:\Users\jakub\source\repos\zapisywaniekont\zapisywaniekont\obj\Debug\net10.0-windows\zapisywaniekont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\zapisywaniekont\zapisywaniekont\obj\Debug\net10.0-windows\zapisywaniekont.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\zapisywaniekont\zapisywaniekont\obj\Debug\net10.0-windows\zapisywaniekont.AssemblyInfo.cs
+C:\Users\jakub\source\repos\zapisywaniekont\zapisywaniekont\obj\Debug\net10.0-windows\zapisywaniekont.csproj.CoreCompileInputs.cache
